@@ -1,0 +1,22 @@
+{
+    "name": "theme-monokai-dark-soda-whitespace",
+    "displayName": "Monokai Dark Soda Whitespace",
+    "description": "A dark theme with bright colors and visible whitespace on select",
+    "version": "0.0.1",
+    "publisher": "Instagit",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dark Soda Whitespace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-dark-soda-whitespace.tmTheme"
+            }
+        ]
+    }
+}
